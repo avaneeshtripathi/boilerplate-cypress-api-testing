@@ -1,0 +1,10 @@
+{
+  "name": "boilerplate-cypress-api-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Avaneesh Tripathi",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}
